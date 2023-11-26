@@ -24,8 +24,8 @@ Packages required for this program is lised below:
 
 ## Image Results:
 - Image Style Transfer Examples: 
-<img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure01.png" width="800">
-<img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure02.png" width="800">
-<img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure03.png" width="800">
-<img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure04.png" width="800">
+<img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure01.png" width="700">
+<img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure02.png" width="370">
+<img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure03.png" width="520">
+<img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure04.png" width="700">
 
