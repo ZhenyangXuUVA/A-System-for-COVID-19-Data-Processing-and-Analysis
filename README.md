@@ -6,8 +6,9 @@ In this work, we researched the OpenDataPhilly for more than 300 data set, appli
 
 ## Requirement
 Packages required for this program is lised below: 
-- [Java](https://github.com/java/):
-- 
+- [Java](https://github.com/java/): Java Language
+- [Python3](https://github.com/python3/): Python Language
+
 ## Code files:
 - Process_Image.py: code frame to process images
 - Process_Video.py: code frame to process videos
