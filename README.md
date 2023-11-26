@@ -9,7 +9,7 @@ Packages required for this program is lised below:
 - [Java](https://github.com/java/): Java Language
 - [Python3](https://github.com/python3/): Python Language
 
-## Code files:\
+## Code files:
 - Main.java: Main Function for System StartUps
 - Data Management: Data Management Tier
   - Including: CSVLexer.java, CovidCSVReader.java, CovidJSONReader.java, PopulationReader.java, PropertyReader.java, Reader.java
@@ -30,7 +30,5 @@ Packages required for this program is lised below:
 - Experiment and Results:
 <img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure03.png" width="1000" height="675">
 
-## Video Results:
-- Video Style Transfer: 
-<img src="https://github.com/ZhenyangXuUVA/Deep-Neural-Networks-for-Artistic-Style-Transfer/blob/main/Readme/Figure04.png" width="700" height="700">
+
 
