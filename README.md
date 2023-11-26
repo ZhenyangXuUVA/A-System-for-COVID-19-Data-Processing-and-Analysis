@@ -5,7 +5,7 @@ A system for COVID-19 Data Processing and Analysis implemented with Java OOP
 In this work, we researched the OpenDataPhilly for more than 300 data set, applications, and APIs related to the city of Philadelphia. This data resource enables government officials, researchers, and the general public to gain a deeper understanding of what is happening in our fair city. The available data sets cover topics such as the environment, real estate, health and human services, transportation, and public safety. We developed a data processing and analyzing system with Java OOP to deal with above data and developed some additional features to enrich the functions of this program. 
 
 ## Requirement
-Packages required for this program is lised below: 
+Packages required for this program is listed below: 
 - [Java](https://github.com/java/): Java Language
 - [Python3](https://github.com/python3/): Python Language
 
