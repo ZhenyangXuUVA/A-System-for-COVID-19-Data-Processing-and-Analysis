@@ -9,23 +9,18 @@ Packages required for this program is lised below:
 - [Java](https://github.com/java/): Java Language
 - [Python3](https://github.com/python3/): Python Language
 
-## Code files:
-- Process_Image.py: code frame to process images
-- Process_Video.py: code frame to process videos
-- Model_ResNet18.py: class code to use ResNet18 deep neural network architechture
-- Model_VGG16.py: class code to use VGG16 deep neural network architechture
-- Model_VGG19.py: class code to use VGG19 deep neural network architechture
-- Model_Inception_V3.py: class code to use InceptionV3 deep neural network architechture
-- Model_Inception_V4.py: class code to use InceptionV4 deep neural network architechture
-
-## Data files:
-- Images: test content and style input images
-- Videos: test content videos
-- Output_Videos: styled ouput videos
-  - DizzyEffect0: content video
-  - DizzyEffect1: output video (Picasso Style)
-  - DizzyEffect1: output video (Starry Night Style)
-  - DizzyEffect1: output video (The Screamer Style)
+## Code files:\
+- Main.java: Main Function for System StartUps
+- Data Management: Data Management Tier
+  - Including: CSVLexer.java, CovidCSVReader.java, CovidJSONReader.java, PopulationReader.java, PropertyReader.java, Reader.java
+- Logging: Logging Tier
+  - Including: Logger.java
+- Processor: Processor Function Tier
+  - Including: LivableComparable.java, MarketComparable.java, Processor.java, PropertyComparator.java
+- UI: User-Interface Tier
+  - Including: CommandLineUserInterface.java
+- Utility: Utility Tier
+  - Including: Population.java, Property.java, Vaccination.java
 
 ## Image Results:
 - Image Style Transfer Examples: 
