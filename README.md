@@ -2,16 +2,12 @@
 A system for COVID-19 Data Processing and Analysis implemented with Java OOP
 
 ## Introduction
-In this work, we researched the deep neural network architectures for artistic style transfer. A loss function with multiple regularization terms is proposed to construct the neural network. Pre-trained model with different architectures are used during our network training phase. In order to better understaing and optimize the deep neural network architecture, we experimented and tested the effect caused be picking different GD algorithms, ratio parameters and DNN Architectures to final output images. Overall, the results generated through Adam method with VGG19 architecture and ratio parameter set between 100-1000 looks reasonable and cost affordable computation resources within this project. For video style transfer, we developed a process to style transfer small videos with low resolution. A new regularization term is proposed to keep the continuity of consecutive frames within the video. The output video shows reasonable result.
+In this work, we researched the OpenDataPhilly for more than 300 data set, applications, and APIs related to the city of Philadelphia. This data resource enables government officials, researchers, and the general public to gain a deeper understanding of what is happening in our fair city. The available data sets cover topics such as the environment, real estate, health and human services, transportation, and public safety. We developed a data processing and analyzing system with Java OOP to deal with above data and developed some additional features to enrich the functions of this program. 
 
 ## Requirement
 Packages required for this program is lised below: 
-- [OpenCV](https://github.com/opencv/opencv): A package used for image and video processing
-- [Optax](https://github.com/deepmind/optax): A gradient processing and optimization library
-- [PIL](https://github.com/python-pillow/Pillow): A package for image processing
-- [Google JAX](https://github.com/google/jax): A package for image formating
-- [Flax](https://github.com/google/flax): A neural network library
-
+- [Java](https://github.com/java/):
+- 
 ## Code files:
 - Process_Image.py: code frame to process images
 - Process_Video.py: code frame to process videos
