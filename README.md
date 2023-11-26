@@ -22,10 +22,17 @@ Packages required for this program is lised below:
 - Utility: Utility Tier
   - Including: Population.java, Property.java, Vaccination.java
 
-## Image Results:
-- Image Style Transfer Examples: 
+## Runtime Results:
+- In this additional feature we implemented a method which calculates a numerical factor can be used to measure the covid-prevention potential of a certain area in Philadelphia. Its mathematical expression is as follows:
 <img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure01.png" width="700">
+
+- A best way of validating this feature is to passing several numerical tests: For example, if we chose option 7 which executes additional feature, we continue to pick zip code as “19120” and select date as “2021-08-19”, this will give us calculated result as 16967835. If we look at the component value of above mathematical expression: We have:
 <img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure02.png" width="370">
+
+- Which yield:
 <img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure03.png" width="520">
+
+- which matches the result output by the program:
 <img src="https://github.com/ZhenyangXuUVA/A-System-for-COVID-19-Data-Processing-and-Analysis/blob/main/Readme/Figure04.png" width="700">
 
+In this project, we have tried to implement the work process taught in class to implement this project. The needs are analyzed first. A N-tier architecture is used to represent different components of program. We have tried to implement the logger tier with singleton design pattern and implement average total livable area with strategy design pattern. Files are read in with different data structures to store information extracted from them. A processor tier is implemented to perform backend calculations along with a user-interface tier to perform frontend user interaction such as take in user’s option and output formatted results. We have learned a lot through this project as it combines nearly all materials taught in class and deepens our understating of class materials through practical programming. Going forward, we will be more careful about design pattern implementation aspect of a future project. In this project we used slack as our primary method of communication and we used GitHub as our code version control method.
